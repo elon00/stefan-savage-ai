@@ -1,0 +1,51 @@
+{
+  "name": "stefan-savage-ai-mcp",
+  "version": "1.0.0",
+  "description": "Stefan Savage AI Model Context Protocol Server for Autonomous Cybercrime Economics, Distributed Botnet Disruption, Embedded Automotive Systems & Cyber-Physical Security Protocol",
+  "tools": [
+    {
+      "name": "audit_cybercrime_monetization_vector",
+      "description": "Analyze underground cybercrime cash-out choke points, botnet C2 infrastructure, and automotive CAN-bus telematics security",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "threat_actor_domain": {
+            "type": "string"
+          },
+          "embedded_architecture": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "threat_actor_domain"
+        ]
+      }
+    },
+    {
+      "name": "disburse_botnet_countermeasure_bounty",
+      "description": "Trigger automated micro-escrow bounties for botnet infrastructure takedowns, vehicle cybersecurity auditing, and anti-spam telemetry",
+      "parameters": {
+        "type": "object",
+        "properties": {
+          "category": {
+            "type": "string"
+          },
+          "recipient": {
+            "type": "string"
+          },
+          "amount_wei": {
+            "type": "string"
+          },
+          "proof_hash": {
+            "type": "string"
+          }
+        },
+        "required": [
+          "category",
+          "recipient",
+          "amount_wei"
+        ]
+      }
+    }
+  ]
+}
